@@ -1,2 +1,2 @@
-# mail_app
+# Mail Application
  
